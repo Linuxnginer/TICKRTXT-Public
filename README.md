@@ -7,6 +7,7 @@ The application automatically runs background scans, caches the results, and dis
 This project is designed for traders, analysts, and developers who want a **simple market intelligence dashboard** without complex infrastructure.
 
 ---
+<img width="2518" height="1424" alt="image" src="https://github.com/user-attachments/assets/65d8e705-de75-4614-b15f-694757f18737" />
 
 # 🚀 Features
 
