@@ -1,4 +1,4 @@
-# 📈 FastAPI Market Scanner
+# TICKRTXT (www.tickrtxt.com)
 
 A lightweight **FastAPI-based web application** that scans financial markets for **high-volume stocks and high-volume out-of-the-money (OTM) options activity**.  
 
